@@ -1,0 +1,1 @@
+add_library(person person.c student.c)

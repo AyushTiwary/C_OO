@@ -1,0 +1,1 @@
+add_library(file console.c socket.c STDIN.c)
